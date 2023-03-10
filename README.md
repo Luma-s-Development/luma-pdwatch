@@ -7,4 +7,4 @@ Dependencies
 
 ['nvg_headset'] = {['name'] = 'pd_compass', ['label'] = 'PD Watch', ['weight'] = 30, ['type'] = 'item', ['image'] = 'pd_compass.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'A watch with a built in compass for PD'},
 
-2. Copy the image from the "luma-thermalheadset" folder and paste it to inventory images folder
+2. Copy the image from the "luma-pdwatch" folder and paste it to inventory images folder
